@@ -15,3 +15,9 @@ Formatters
 Dependency managers
 - [A Review: Pipenv vs. Poetry vs. PDM](https://dev.to/frostming/a-review-pipenv-vs-poetry-vs-pdm-39b4#:~:text=Pipenv%20uses%20a%20very%20different,with%20the%20lock%20file%20existing.)
 
+Git
+- [Pre commit hooks](https://pre-commit.com/#install)
+
+Additional
+[POSIX exit codes](https://shapeshed.com/unix-exit-codes/)
+[Semantic versioning](https://semver.org/)
