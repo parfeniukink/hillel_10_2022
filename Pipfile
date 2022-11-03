@@ -9,6 +9,7 @@ black = "==22.10.0"
 isort = "==5.10.1"
 
 [dev-packages]
+mypy = "*"
 
 [requires]
 python_version = "3.10"
