@@ -40,8 +40,9 @@ class CarRent:
         return self.__total_price
 
     @total_price.setter
-    def total_price(self, value: Any):
+    def total_price(self, value: Any) -> int:
         if not isinstance(value, int):
+            # return None  # Bad
             raise RentError(f"The value {value} is not a valid integer")
 
         if value <= self.min_price:
