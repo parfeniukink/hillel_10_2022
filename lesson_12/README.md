@@ -1,0 +1,7 @@
+## <span style="color:green">Materials</span>
+
+- [Tanenbaum](https://www.amazon.com/Computer-Networks-5th-Andrew-Tanenbaum/dp/0132126958)
+- [Kofler](https://www.amazon.com/LINUX-Second-Installation-Configuration-Use/dp/0201596288)
+
+- [What is API. Habr](https://habr.com/en/post/464261/)
+
