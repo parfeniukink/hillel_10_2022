@@ -27,7 +27,7 @@ def run_sync():
 def run_threads():
     threads: list[Thread] = [
         Thread(target=launch_rocket, args=[i, random_delay(), random_countdown()])
-        for i in range(1, 1_000_000)
+        for i in range(100_000)
     ]
 
     for thread in threads:
