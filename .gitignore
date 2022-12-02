@@ -2,6 +2,9 @@
 
 venv/
 
+
+# Editors
 __pycache__/
+.vscode/
 
 rockyou.txt
