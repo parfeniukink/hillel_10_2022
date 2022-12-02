@@ -7,7 +7,7 @@
 - How to create a Git server to store the data?
     - GitHub
     - Gitlab
-    - Bitbacket
+    - Bitbucket
 - Create a public repo on GitHub
 - Git basic commands
     - git clone
